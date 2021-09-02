@@ -20,7 +20,8 @@ public class RunnerTest {
 	public static void setup() {
 
 		driver = Baseclass_Login.Browserlaunch("Chrome");
-
+         System.out.println("adactin  hotel booked ");
 	}
-	//System.out.println("Cucumber  hotel booked ");
+	
+	
 }
